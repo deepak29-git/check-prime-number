@@ -25,4 +25,4 @@ checkBtn.addEventListener('click',()=>{
     outputDiv.innerText=primeNumber;
     outputDiv.style.color=color;
   }
-})
+});
